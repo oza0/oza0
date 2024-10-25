@@ -1,10 +1,12 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFzamY5b3liZWlxbTljMG01cWtndzNjZnd6bjlyZ3J4NHRrMTZhbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" alt="Profile Banner" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFzamY5b3liZWlxbTljMG01cWtndzNjZnd6bjlyZ3J4NHRrMTZhbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" alt="Profile Banner" width="100%" height="300px">
 </p>
 
-<!-- Introduction -->
-<h1 align="center">Hi there... I'm oZa ;The last of the honorable outlaws</h1>
+<!-- Introduction with Moving Text -->
+<h1 align="center">
+  <marquee behavior="scroll" direction="left">Hi there... I'm oZa ;The last of the honorable outlaws</marquee>
+</h1>
 
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **Use information-gathering tools 👨‍💻.**
