@@ -1,82 +1,64 @@
-<!-- Introduction with Typing Animation -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+there...+I'm+oZa;The+last+of+the+honorable+outlaws&center=true">
-</p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+there...;They+call+me+oZa;The+last+of+the+honorable+outlaws." center=true"></p>
 
----
 
-- 💬 Ask me about **Anything**
-- 📫 How to reach me: **Use information-gathering tools 👨‍💻.**
-- ⚡ Fun fact: **I can do 100 pull-up reps!**
-
----
-
-<!-- Snake Game (centered) -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" width="600">
-</p>
-
----
-
-<!-- Technical Skills -->
-<h2 align="center">🖥️ Technical Skills</h2>
-
+# 🖥️ Technical Skills: 
 <p align="left">
-  <!-- Web Development Skills -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="nmap" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+ 
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="metasploit" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="kali" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
+<p align="left">
+  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="40" height="40"/>
   </a>
-  <!-- Kali Linux and Related Tools -->
-  <a href="https://www.kali.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40"/>
+  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
+    <img src="https://www.salamatechwiki.org/images/1/1e/John_the_Ripper_logo.png" alt="John the Ripper" width="40" height="40"/>
   </a>
-  <a href="https://www.wireshark.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
+  
   </a>
-  <a href="https://www.torproject.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" alt="Tor" width="40" height="40"/>
+  <a href="http://sqlmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="SQLMap" width="40" height="40"/>
   </a>
 </p>
 
----
 
-<!-- Topics Cards -->
-<h2 align="center">📚 Topics I Enjoy</h2>
-<p align="center">
-  <span style="display:inline-block; background-color:#f2f2f2; padding:10px; border-radius:8px; margin:5px;">Web Development</span>
-  <span style="display:inline-block; background-color:#f2f2f2; padding:10px; border-radius:8px; margin:5px;">Cybersecurity</span>
-  <span style="display:inline-block; background-color:#f2f2f2; padding:10px; border-radius:8px; margin:5px;">Machine Learning</span>
-  <span style="display:inline-block; background-color:#f2f2f2; padding:10px; border-radius:8px; margin:5px;">Open Source</span>
-  <span style="display:inline-block; background-color:#f2f2f2; padding:10px; border-radius:8px; margin:5px;">DevOps</span>
-</p>
 
-<h2 align="center">📚 Topics I Enjoy</h2>
-<p align="center">
-  <span style="display:inline-block; background-color:#f2f2f2; padding:10px; border-radius:8px; margin:5px;">Web Development</span>
-  <span style="display:inline-block; background-color:#f2f2f2; padding:10px; border-radius:8px; margin:5px;">Cybersecurity</span>
-  <span style="display:inline-block; background-color:#f2f2f2; padding:10px; border-radius:8px; margin:5px;">Machine Learning</span>
-  <span style="display:inline-block; background-color:#f2f2f2; padding:10px; border-radius:8px; margin:5px;">Open Source</span>
-  <span style="display:inline-block; background-color:#f2f2f2; padding:10px; border-radius:8px; margin:5px;">DevOps</span>
-</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--START_SECTION:waka-->
+
+text
+Python   3 hrs 58 mins    █████████████████████████   100.00 %
+
+
+<!--END_SECTION:waka-->
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
+
 
