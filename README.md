@@ -39,6 +39,22 @@
   <a href="http://sqlmap.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="SQLMap" width="40" height="40"/>
   </a>
+   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="Wireshark" width="40" height="40"/>
+  </a>
+<p align="left">
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.debian.org/logos/openlogo-nd-100.jpg" alt="Debian" width="40" height="40"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/>
+  </a>
+     <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="Red Hat" width="40" height="40"/>
+  </a>
+</p>
+
+  
 </p>
 
 
@@ -54,8 +70,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
-text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
+
 
 
 <!--END_SECTION:waka-->
