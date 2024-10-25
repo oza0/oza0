@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+there...I'm+oZa;The+last+of+the+honorable+outlaws&center=true">
+</p>
 
-<!--
-**oza0/oza0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🖥️ Technical Skills: 
+<p align="left">
+  <!-- ضع الأيقونات التي تعكس مهاراتك هنا أو اتركها كما هي إن كانت مناسبة -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <!-- إضافة أيقونات أخرى هنا حسب حاجتك -->
+</p>
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oza0&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=oza0&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=oza0&theme=radical&hide_border=false)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 About Me:
+- 💬 Ask me about **Anything**
+- 📫 How to reach me: **Use information-gathering tools 👨‍💻.**
+- ⚡ Fun fact: **I can do 100 pull-up reps!**
+
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/oza0.oza0.svg)
+
