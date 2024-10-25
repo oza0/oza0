@@ -23,3 +23,8 @@
 
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/oza0.oza0.svg)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFzamY5b3liZWlxbTljMG01cWtndzNjZnd6bjlyZ3J4NHRrMTZhbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" alt="GIF description" width="400px">
+</p>
+
+
