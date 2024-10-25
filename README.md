@@ -1,60 +1,63 @@
-<!-- Introduction with Typing Animation -->
+# Hi there... I'm oZa, the last of the honorable outlaws! 
+
+## 💬 Ask me about **Anything**
+
+## 📫 How to reach me: **Use information-gathering tools 👨‍💻.**
+
+## ⚡ Fun fact: **I can do 100 pull-up reps!**
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+there...+I'm+oZa;The+last+of+the+honorable+outlaws&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+oZa;The+last+of+the+honorable+outlaws;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You...." alt="Typing SVG">
 </p>
 
----
-
-- 💬 Ask me about **Anything**
-- 📫 How to reach me: **Use information-gathering tools 👨‍💻.**
-- ⚡ Fun fact: **I can do 100 pull-up reps!**
-
----
-
-<!-- Snake Game (centered) -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" width="600">
-</p>
-
----
-
-<!-- Technical Skills -->
-<h2 align="center">🖥️ Technical Skills</h2>
-
+# 🖥️ Technical Skills: 
 <p align="left">
-  <!-- Web Development Skills -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <!-- Kali Linux and Related Tools -->
-  <a href="https://www.kali.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40"/>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://www.wireshark.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
+  <a href="https://hashcat.net/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hashcat_logo.svg/1200px-Hashcat_logo.svg.png" alt="hashcat" width="40" height="40"/>
   </a>
-  <a href="https://www.torproject.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" alt="Tor" width="40" height="40"/>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Nmap_logo.svg/1200px-Nmap_logo.svg.png" alt="nmap" width="40" height="40"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Clau-dan/snakes/main/snake.gif" alt="Snake Game" width="300" height="300"/>
+</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oza0&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=oza0&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=oza0&theme=radical&hide_border=false)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=oza0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/oza0.svg)
+
