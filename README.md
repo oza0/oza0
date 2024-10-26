@@ -1,3 +1,9 @@
+# hi
+ </a>
+  <a href=# >
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBrMXpodWkzNDlrZXhqaTFyMGt4OXczb250azJldWJlNDA5NG4yZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.webp" width="100%" height="700px"/>
+  </a> <br><br>
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+there...;They+call+me+oZa;The+last+of+the+honorable+outlaws." center=true"></p>
 
